@@ -1,0 +1,8 @@
+{
+  "name": "Developer Portfolio",
+  "description": "Interactive cyber-security themed developer portfolio of Harshit Shrivastav, featuring live command terminal, vulnerability audit scanner simulators, and cryptographic guest sandboxes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
